@@ -1,0 +1,19 @@
+{
+  "name": "cypress-challenge-alertsite",
+  "version": "1.0.0",
+  "description": "Cypress challenge for interview candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-j-garcia/cypress-challenge-alertsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-j-garcia/cypress-challenge-alertsite/issues"
+  },
+  "homepage": "https://github.com/alex-j-garcia/cypress-challenge-alertsite#readme"
+}
