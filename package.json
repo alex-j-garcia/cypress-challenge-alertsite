@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alex-j-garcia/cypress-challenge-alertsite/issues"
   },
-  "homepage": "https://github.com/alex-j-garcia/cypress-challenge-alertsite#readme"
+  "homepage": "https://github.com/alex-j-garcia/cypress-challenge-alertsite#readme",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
 }
